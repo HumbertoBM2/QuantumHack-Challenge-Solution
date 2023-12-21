@@ -1,9 +1,24 @@
+<div align="center">
+
 # Solution to IBM's 2023 QuantumHack Challenge
+
+##### Jupyter Notebook where team 8 applied basic quantum computing and Python to solve an optimization problem.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+</div>
+
 ## Team 8 
-* Humberto Barrera Martinez
-* Miguel Angel Gonzalez Gutierrez
-* Pedro Antonio Gonzalez Soto
-* Alejandro Emilio Novales Treviño
+
+- Humberto Barrera Martínez
+- Miguel Ángel González Gutierrez
+- Pedro Antonio González Soto
+- Alejandro Emilio Novales Treviño
+
+## Overview 
 
 The challenge involves creating a program that, utilizing Quantum Computing, determines the optimal route passing through a given set of points. The provided Jupyter Notebook offers a solution to this challenge, employing the TSP Solver with VQA to address each cluster and utilizing KMeans for cluster generation and solving.
 
