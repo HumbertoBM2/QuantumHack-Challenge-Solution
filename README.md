@@ -20,7 +20,7 @@
 
 ## Overview 
 
-The challenge involves creating a program that, utilizing Quantum Computing (QiskKit), determines the optimal route passing through a given set of points. The provided Jupyter Notebook offers a solution to this challenge, employing the TSP Solver with VQA to address each cluster and utilizing KMeans for cluster generation and solving.
+The challenge involves creating a program that, utilizing Quantum Computing (QisKit), determines the optimal route passing through a given set of points. The provided Jupyter Notebook offers a solution to this challenge, employing the TSP Solver with VQA to address each cluster and utilizing KMeans for cluster generation and solving.
 
 The primary code to tackle the challenge is found in the first cell, while the subsequent cells feature test codes used during the development process. For the purpose of understanding and addressing the problem at hand, these test codes can be disregarded.
 
